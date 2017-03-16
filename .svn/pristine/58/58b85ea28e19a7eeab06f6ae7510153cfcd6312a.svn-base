@@ -1,0 +1,55 @@
+{
+  "success":true,
+  "total":8,
+  "data":[
+    {
+      "id":1,  //'id','image','title','info'
+      "image":"http://m.360buyimg.com/mobilecms/s480x180_jfs/t1666/15/982316940/47598/6e28b8d5/55bf3d37N32b7c581.jpg",
+      "title":"商品一",
+      "info":"特色商品一"
+    },
+    {
+      "id":2,  //'id','image','title','info'
+      "image":"http://m.360buyimg.com/mobilecms/jfs/t1558/161/1256490216/35985/20aabf16/55c30497Nb89f5265.jpg",
+      "title":"商品二",
+      "info":"特色商品二"
+    },
+    {
+      "id":3,  //'id','image','title','info'
+      "image":"http://m.360buyimg.com/mobilecms/s480x180_jfs/t1477/152/1318672345/97315/81bab8b1/55c451cbN666b2db6.jpg",
+      "title":"商品三",
+      "info":"特色商品三"
+    },
+    {
+      "id":4,  //'id','image','title','info'
+      "image":"http://m.360buyimg.com/mobilecms/s480x180_jfs/t1702/282/343687036/49561/a70d5a7f/55c98d45Nd151d2de.jpg",
+      "title":"商品四",
+      "info":"特色商品四"
+    },
+    {
+      "id":5,  //'id','image','title','info'
+      "image":"http://m.360buyimg.com/mobilecms/s480x180_jfs/t1657/181/1168782102/410860/289af0f6/55c98dd6Nc0e98479.jpg",
+      "title":"商品五",
+      "info":"特色商品五"
+    },
+    {
+      "id":6,  //'id','image','title','info'
+      "image":"http://m.360buyimg.com/mobilecms/s480x180_jfs/t1648/324/310802075/103094/13831a2e/55c98ffaN60a2f255.jpg",
+      "title":"商品五",
+      "info":"特色商品五"
+    },
+    {
+      "id":7,  //'id','image','title','info'
+      "image":"http://m.360buyimg.com/mobilecms/s480x180_jfs/t1675/250/1289567315/96006/1dac847/55c9b352N87a68d16.jpg",
+      "title":"商品五",
+      "info":"特色商品五"
+    },
+    {
+      "id": 8,
+      //'id','image','title','info'
+      "image": "http://m.360buyimg.com/mobilecms/s480x180_jfs/t1675/171/1380010214/102350/a60932dc/55c9c947N397d8b86.jpg",
+      "title": "商品五",
+      "info": "特色商品五"
+    }
+  ]
+}

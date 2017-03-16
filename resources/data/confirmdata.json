@@ -1,0 +1,73 @@
+{
+  "success": true,
+  "msg": "确认订单  数据",
+  "total": 1,
+  "data": [
+    {
+      "addressobj" : {
+         "id" : "001",            //  地址ID
+         "provin" : "广东省",      //  省份
+         "customerAddress" : "深圳市南山区高新园",   // 市区+详细地址
+         "customerName" : "张三",                   //  姓名
+         "customerPhone" : "13666668888",           //  手机号码
+         "tele" : "012345678",              //  电话号码
+         "cardid":"330726196507040016"      //  身份证号码
+        },
+      "balanceValue" : "600",  //账户余额
+      "subTotal" : "430",      //  商品总金额
+      "sumTotal" : "400",      // 应付总额
+      "freight" : [             //  运送方式
+        {
+          "id" : "001",
+          "value" : "100",
+          "text" : "text值1"
+        },
+        {
+          "id" : "002",
+          "value" : "100",
+          "text" : "text值1"
+        },
+        {
+          "id" : "003",
+          "value" : "100",
+          "text" : "text值1"
+        }
+      ],
+      "voucher" : [         //  优惠券
+        {
+          "id" : "001",
+          "value" : "100",
+          "text" : "text值1"
+        },
+          {
+          "id" : "003",
+          "value" : "100",
+          "text" : "text值1"
+        },
+          {
+          "id" : "003",
+          "value" : "100",
+          "text" : "text值1"
+        }
+      ],
+      "redpack" : [         //  红包
+        {
+          "id" : "001",
+          "value" : "100",
+          "text" : "text值1"
+        },
+           {
+          "id" : "001",
+          "value" : "100",
+          "text" : "text值1"
+        },
+           {
+          "id" : "001",
+          "value" : "100",
+          "text" : "text值1"
+        }
+
+      ]
+    }
+  ]
+}

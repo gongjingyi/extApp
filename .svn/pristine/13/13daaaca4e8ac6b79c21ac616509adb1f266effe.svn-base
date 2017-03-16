@@ -1,0 +1,24 @@
+{
+	"success":true,
+	"msg":"数据获取成功",
+	"total":0,
+	"data":{
+		"header" : {
+			"userid" : "test1",
+			"uname" : "张三张三",
+			"nickname" : "禧金大使",
+			"photourl" : "",
+			"level" : "10",		//	等级
+			"intgral" : "1000",	//	积分
+			"redpacked" : "",	//	红包
+			"money" : "100",	//	余额
+			"coupons" : "",		//	优惠券
+			"isautothem" : 10   //	是否实名认证
+		},
+		"order":{
+			"forpayment" :  3 ,	//	待付款
+			"sendgood" : 4,		//	待发货
+			"hassend" : 10    	//	已发货
+		}
+	}
+}

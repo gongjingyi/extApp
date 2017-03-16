@@ -1,0 +1,323 @@
+{
+  "success":true,
+  "msg":"",
+  "total":10,
+  "data":[
+	{
+	  "catId":"man001",
+	  "catName":"男士运动补充",
+	  "imgUrl" : "resources/images/img/page/free/nanshilog.png",
+	  "products":[
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		}
+	  ]
+	},
+	{
+	  "catId":"man002",
+	  "catName":"男士能量棒",
+	  "imgUrl" : "resources/images/img/page/free/nanshilog.png",
+	  "products":[
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		}
+	  ]
+	},
+	{
+	  "catId":"man003",
+	  "catName":"男士营养品",
+	  "imgUrl" : "resources/images/img/page/free/nanshilog.png",
+	  "products":[
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		}
+	  ]
+	},
+	{
+	  "catId":"man004",
+	  "catName":"男士蛋白粉",
+	  "imgUrl" : "resources/images/img/page/free/nanshilog.png",
+	  "products":[
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"resources/images/img/image/shop.png",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"http://m.360buyimg.com/mobilecms/s480x180_jfs/t1666/15/982316940/47598/6e28b8d5/55bf3d37N32b7c581.jpg",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"http://m.360buyimg.com/mobilecms/s480x180_jfs/t1666/15/982316940/47598/6e28b8d5/55bf3d37N32b7c581.jpg",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"http://m.360buyimg.com/mobilecms/s480x180_jfs/t1666/15/982316940/47598/6e28b8d5/55bf3d37N32b7c581.jpg",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"http://m.360buyimg.com/mobilecms/s480x180_jfs/t1666/15/982316940/47598/6e28b8d5/55bf3d37N32b7c581.jpg",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"http://m.360buyimg.com/mobilecms/s480x180_jfs/t1666/15/982316940/47598/6e28b8d5/55bf3d37N32b7c581.jpg",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		},
+		{
+		  "proId":1,//商品ID
+		  "proOriginPrice":50,//原价
+		  "proDiscountPrice":50,//折扣价
+		  "imageUrl":"http://m.360buyimg.com/mobilecms/s480x180_jfs/t1666/15/982316940/47598/6e28b8d5/55bf3d37N32b7c581.jpg",
+		  "title":"京东经典商品特大推送",// 图片URL
+		  "info":"京东经典商品特大推送"
+		}
+	  ]
+	}
+  ]
+}

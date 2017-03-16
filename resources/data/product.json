@@ -1,0 +1,59 @@
+{
+  "success":true,
+  "msg":"商品数据",
+  "total":1,
+  "data":{
+      "productImg":"http://img01.miyabaobei.com/d1/p2/2015/10/16/95/b0/95b077dbf0f088316ffa96bfdd8e8ed4.jpg",
+      "price":150,
+      "discountPrice":130,
+      "productName":"美国Earth's Best2段有机燕麦米粉227g*2盒",
+      "productDesc":"【净水器WP4140】全程创先，携领净水新时代：3重强力过滤：除菌膜+压缩活性炭+超滤膜，提供免费上门安装服务（黑龙江，内蒙，甘肃，青海，新疆，西藏，云南，贵州，海南，台湾除外）【顺丰包邮，安全快速送您家】",
+      "caoxinOpinion":"这个是最好用的商品，你说的这些我都是知道的，很好用，很好用，我们摆明就是坑你的！谢谢你接受我们的忽悠！",
+      "productDetail":"4周年美国Earth's Bes	earth best2段有机燕麦米粉，美国进口，有机高铁燕麦米粉。宝宝的安全营养辅食，米香四溢，爱不释口~新老包装随机发货~4周年美国Earth's Bes	earth best2段有机燕麦米粉，美国进口，有机高铁燕麦米粉。宝宝的安全营养辅食，米香四溢，爱不释口~新老包装随机发货~4周年美国Earth's Bes	earth best2段有机燕麦米粉，美国进口，有机高铁燕麦米粉。宝宝的安全营养辅食，米香四溢，爱不释口~新老包装随机发货~4周年美国Earth's Bes	earth best2段有机燕麦米粉，美国进口，有机高铁燕麦米粉。宝宝的安全营养辅食，米香四溢，爱不释口~新老包装随机发货~4周年美国Earth's Bes	earth best2段有机燕麦米粉，美国进口，有机高铁燕麦米粉。宝宝的安全营养辅食，米香四溢，爱不释口~新老包装随机发货~4周年美国Earth's Bes	earth best2段有机燕麦米粉，美国进口，有机高铁燕麦米粉。宝宝的安全营养辅食，米香四溢，爱不释口~新老包装随机发货~4周年美国Earth's Bes	earth best2段有机燕麦米粉，美国进口，有机高铁燕麦米粉。宝宝的安全营养辅食，米香四溢，爱不释口~新老包装随机发货~4周年美国Earth's Bes	earth best2段有机燕麦米粉，美国进口，有机高铁燕麦米粉。宝宝的安全营养辅食，米香四溢，爱不释口~新老包装随机发货~4周年美国Earth's Bes	earth best2段有机燕麦米粉，美国进口，有机高铁燕麦米粉。宝宝的安全营养辅食，米香四溢，爱不释口~新老包装随机发货~",
+    "proStandard":[  //规格数组
+      {
+        "optionName":"颜色",  // 大分类
+        "optionId":"colorId",
+        "subOptions":[
+          {
+            "subOptionId":"yellowId",  // 分类的值
+            "subOptionUrl":"http://e.hiphotos.baidu.com/bainuo/wh%3D720%2C436/sign=c94b2a860d24ab18e043e93007cacaf9/3b292df5e0fe9925271ca6f030a85edf8db1717a.jpg",
+            "subOptionName":"黄色"
+          },
+          {
+            "subOptionId":"redId",
+            "subOptionUrl":"http://img04.miyabaobei.com/d1/p1/item/10/1008/1008609_topic_1.jpg",
+            "subOptionName":"红色"
+          },
+          {
+            "subOptionId":"greenId",
+            "subOptionUrl":"http://static.clewm.net/static/images/n4_1f30e8c.png",
+            "subOptionName":"绿色"
+          }
+        ]
+      },
+      {
+        "optionName":"尺寸",
+        "optionId":"sizeId",
+        "subOptions":[
+          {
+            "subOptionId":"bigId",
+            "subOptionUrl":"",
+            "subOptionName":"L"
+          },
+          {
+            "subOptionId":"mediumId",
+            "subOptionUrl":"",
+            "subOptionName":"M中码中码啊"
+          },
+          {
+            "subOptionId":"smallId",
+            "subOptionUrl":"",
+            "subOptionName":"S"
+          }
+        ]
+      }
+    ]
+  }
+
+}

@@ -1,0 +1,37 @@
+{
+	"success":true,
+	"msg":"indexCarousel data",
+	"total":6,
+	"data":[
+		{
+			"proId":1,
+			"imageUrl":"http://m.360buyimg.com/mobilecms/s480x180_jfs/t1666/15/982316940/47598/6e28b8d5/55bf3d37N32b7c581.jpg",
+			"title":"京东经典商品特大推送",
+			"info":"京东经典商品特大推送"
+		},
+		{
+			"proId":2,
+			"imageUrl":"http://m.360buyimg.com/mobilecms/s480x180_jfs/t1666/15/982316940/47598/6e28b8d5/55bf3d37N32b7c581.jpg",
+			"title":"京东经典商品特大推送",
+			"info":"京东经典商品特大推送"
+		},
+		{
+			"proId":3, //商品ID
+			"imageUrl":"http://m.360buyimg.com/mobilecms/s480x180_jfs/t1666/15/982316940/47598/6e28b8d5/55bf3d37N32b7c581.jpg",//商品图片URL
+			"title":"京东经典商品特大推送",//商品名字
+			"info":"京东经典商品特大推送"// 商品附带信息
+		},
+			{
+			"proId":4,
+			"imageUrl":"http://m.360buyimg.com/mobilecms/s480x180_jfs/t1666/15/982316940/47598/6e28b8d5/55bf3d37N32b7c581.jpg",
+			"title":"京东经典商品特大推送",
+			"info":"京东经典商品特大推送"
+		},
+			{
+			"proId":5,
+			"imageUrl":"http://m.360buyimg.com/mobilecms/s480x180_jfs/t1666/15/982316940/47598/6e28b8d5/55bf3d37N32b7c581.jpg",
+			"title":"京东经典商品特大推送",
+			"info":"京东经典商品特大推送"
+		}
+	]
+}

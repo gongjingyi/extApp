@@ -1,0 +1,72 @@
+{
+	"success":true,
+	"msg":"正在进行数据",
+	"total":20,
+	"data":[
+		{
+			"productId":001,
+			"productName":"美国Earth's Best2段有机燕麦米粉227g*2盒",
+			"proPrice" : "108元起",
+			"remainTime":"3天2时",
+			"productImg":"resources/images/img/page/index/yk4.png",
+			"isProduct":true// true是商品  false是品牌
+		},
+			{
+			"productId":002,
+			"productName":"美国Earth's Best2段有机燕麦米粉227g*2盒",
+			"proPrice" : "108元起",
+			"remainTime":"3天2时",
+			"productImg":"resources/images/img/page/index/yk4.png",
+			"isProduct":false// true是商品  false是品牌
+		},
+			{
+			"productId":003,
+			"productName":"美国Earth's Bes227g*2盒",
+			"proPrice" : "108元起",
+			"remainTime":"3天2时",
+			"productImg":"resources/images/img/page/index/yk4.png",
+			"isProduct":true// true是商品  false是品牌
+		},
+			{
+			"productId":004,
+			"productName":"美国Earth's Best2段有机燕麦米粉227g*2盒",
+			"proPrice" : "108元起",
+			"remainTime":"3天2时",
+			"productImg":"resources/images/img/page/index/yk4.png",
+			"isProduct":false// true是商品  false是品牌
+		},
+			{
+			"productId":005,
+			"productName":"美国Earth's Best2段227g*2盒",
+			"proPrice" : "108元起",
+			"remainTime":"3天2时",
+			"productImg":"resources/images/img/page/index/yk4.png",
+			"isProduct":true// true是商品  false是品牌
+		},
+			{
+			"productId":006,
+			"productName":"美国arth's Best2米27g*2盒",
+			"proPrice" : "108元起",
+			"remainTime":"3天2时",
+			"productImg":"resources/images/img/page/index/yk4.png",
+			"isProduct":true// true是商品  false是品牌
+		},
+			{
+			"productId":007,
+			"productName":"美国Earth's Best2段有机燕麦米粉227g*2盒",
+			"proPrice" : "108元起",
+			"remainTime":"3天2时",
+			"productImg":"resources/images/img/page/index/yk4.png",
+			"isProduct":true// true是商品  false是品牌
+		},
+			{
+			"productId":008,
+			"productName":"美国Earth's燕麦米粉227g*2盒",
+			"proPrice" : "108元起",
+			"remainTime":"3天2时",
+			"productImg":"resources/images/img/page/index/yk4.png",
+			"isProduct":false// true是商品  false是品牌
+		}
+
+	]
+}

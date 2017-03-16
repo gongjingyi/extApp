@@ -1,0 +1,47 @@
+{
+  "success":true,
+  "msg":"品牌列表页  数据",
+  "total":30,
+  "data":{
+     "brandInfo":{
+       "brandLogo":"http://m.360buyimg.com/mobilecms/s480x180_jfs/t1666/15/982316940/47598/6e28b8d5/55bf3d37N32b7c581.jpg",
+       "brandDesc":"全世界最好的奶粉，你值得拥有，新西兰原天然牛奶！苏菲长颈鹿牙胶	苏菲小鹿牙胶，天然乳胶材质，无毒无味，FDA认证，手工制造，染色全部采用食用色素，可以放心让小宝宝放入嘴里咬，缓解宝宝出牙不适，长颈鹿的长脖子和长腿造",
+       "brandId":101
+     },
+
+      "brandProducts":[
+        {
+          "proId":1,//商品ID
+          "proOriginPrice":50,//原价
+          "proDiscountPrice":50,//折扣价
+          "imageUrl":"http://m.360buyimg.com/mobilecms/s480x180_jfs/t1666/15/982316940/47598/6e28b8d5/55bf3d37N32b7c581.jpg",
+          "title":"京东经典商品特大推送",// 图片URL
+          "info":"京东经典商品特大推送"
+        },
+        {
+          "proId":2,//商品ID
+          "proOriginPrice":50,//原价
+          "proDiscountPrice":60,//折扣价
+          "imageUrl":"http://m.360buyimg.com/mobilecms/s480x180_jfs/t1666/15/982316940/47598/6e28b8d5/55bf3d37N32b7c581.jpg",
+          "title":"京东经典商品特大推送",// 图片URL
+          "info":"京东经典商品特大推送"
+        },
+        {
+          "proId":3,//商品ID
+          "proOriginPrice":50,//原价
+          "proDiscountPrice":30,//折扣价
+          "imageUrl":"http://m.360buyimg.com/mobilecms/s480x180_jfs/t1666/15/982316940/47598/6e28b8d5/55bf3d37N32b7c581.jpg",
+          "title":"京东经典商品特大推送",// 图片URL
+          "info":"京东经典商品特大推送"
+        },
+        {
+          "proId":4,//商品ID
+          "proOriginPrice":50,//原价
+          "proDiscountPrice":20,//折扣价
+          "imageUrl":"http://m.360buyimg.com/mobilecms/s480x180_jfs/t1666/15/982316940/47598/6e28b8d5/55bf3d37N32b7c581.jpg",
+          "title":"京东经典商品特大推送",// 图片URL
+          "info":"京东经典商品特大推送"
+        }
+      ]
+  }
+}
